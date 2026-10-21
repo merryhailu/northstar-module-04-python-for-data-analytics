@@ -1,0 +1,3 @@
+Three to four sentences answering: which of the five analyses was clearest to you, which one took the longest, and one thing you noticed about working in a notebook versus a Python script.
+
+The clearest analyses for me were the first, third, and fourth. Analyses 2 and 5 took me the longest because they required more thought to calculate the results, especially using functions and loops to solve the problems. One thing I noticed about working in a Jupyter Notebook versus a Python script is that a notebook is cell-based, allowing me to run one piece of code at a time without running the entire program. I can also include Markdown cells to explain my results and observations alongside my code, which makes the analysis easier to understand.
