@@ -1,0 +1,3 @@
+Three to four sentences total. Answer three questions: which extension was hardest, what you'd do differently for a stakeholder demo tomorrow, and how confident you are that the dataset is realistic enough for FinFlow.
+
+The correlation between churn rate and plan tier was the hardest part, but I took the time to understand it. If I had a stakeholder demo tomorrow, I would validate the dataset, check the churn rates for each plan, and explain the findings. I am fairly confident that the dataset is realistic enough for FinFlow because it reflects different churn rates by plan, although I would still need to compare it with real customer data to confirm its accuracy.
