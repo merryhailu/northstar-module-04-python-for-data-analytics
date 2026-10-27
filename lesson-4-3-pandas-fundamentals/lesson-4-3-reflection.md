@@ -1,0 +1,3 @@
+Three to four sentences. Cover what surprised you about the 200K generation time and the larger-dataset Pandas operations. Then name one Pandas idiom from Step C that you'd struggle to write as a loop.
+
+Generating 200,000 customers took 88 seconds, which was longer than my 60-second estimate, but still surprisingly fast for such a large dataset. I was also surprised by how easily Pandas handled operations on the larger dataset. Calculating the total monthly recurring revenue from active customers was much simpler with Pandas than with a loop. The Pandas idiom I would struggle to write as a loop is `df.loc[df['active'] == True, 'monthly_fee'].sum()` because it filters active customers and sums their monthly fees in one line.
