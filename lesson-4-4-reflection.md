@@ -1,0 +1,3 @@
+Three to four sentences. Cover what surprised you about the per-tier numbers, which Pandas pattern from this lesson felt most useful, and one question the per-tier breakdown raised that you'd want to investigate further.
+
+The per-tier breakdown provided useful insights, especially how Enterprise generates the highest revenue despite having the smallest customer base. I found Pandas very useful because it makes data analysis simple, efficient, and fast. The filtering and groupby patterns were the most useful because we can apply conditions and perform calculations without writing complex loops, even when working with multiple columns and variables. I would like to investigate the different columns further to understand how they relate to customer churn and revenue.
