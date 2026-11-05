@@ -1,0 +1,4 @@
+plan_tier_clean,marketing_name,target_segment,customer_count,total_mrr,churn_rate_pct,avg_sessions
+Basic,Starter Plan,Individual,120016,1198959.84,25.083322223703508,163.93586688441542
+Enterprise,Enterprise Plus,Enterprise,20106,4001094.0,4.963692430120362,201.22301800457575
+Pro,Professional,SMB,59878,1795741.22,14.856875647149204,182.60369417816227

@@ -1,0 +1,6 @@
+plan_tier,marketing_name,target_segment,monthly_fee_listed,launch_date
+ Basic ,Starter Plan,Individual,9.99,2019-03-15
+PRO,Professional,SMB,29.99,2020-08-01
+ enterprise ,Enterprise Plus,Enterprise,199.00,2021-11-30
+PRO,Professional,SMB,29.99,2020-08-01
+Legacy,Heritage Plan,Individual,,2017-06-12
