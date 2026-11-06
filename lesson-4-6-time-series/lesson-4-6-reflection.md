@@ -1,0 +1,3 @@
+Three to four sentences. Cover the time-series operation that felt most useful for analyst work and one specific cohort question you'd want to investigate further with another day of work.
+
+The resample() operation felt most useful for analyst work because it makes grouping data by time periods very simple, almost like using groupby() in one line of code. I also found shift() and rolling() very useful because they help identify trends and provide insights for business discussions with less code. With another day of work, I would investigate why signups have recently decreased, especially the negative quarter-over-quarter percentage changes, and determine whether there is a seasonal pattern or another reason behind the decline.
