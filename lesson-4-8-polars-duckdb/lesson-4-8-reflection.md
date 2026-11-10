@@ -1,0 +1,3 @@
+Three to four sentences. Cover which of the three tools surprised you most and which one you'd want more practice with before your next engagement.
+
+Polars surprised me the most because of its speed and clear table output. I would like to practice more with both Polars and DuckDB before my next engagement. Although Pandas is easier for me right now, I want to become more comfortable with Polars so I can use it for faster data processing. For complex joins and aggregations, I would choose DuckDB because I am comfortable with SQL, while I would continue using Pandas for simple analysis and exploration.
