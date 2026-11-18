@@ -1,0 +1,3 @@
+Three to four sentences. Cover the chart type that felt most useful for the FinFlow story and one Hiroshi-checklist rule you'd want to remember on your next engagement.
+
+The line chart felt most useful for the FinFlow story because it shows monthly churn trends across different plan tiers, making it easy to compare their performance using different colors. It also helps identify which tiers have higher or lower churn over time. From Hiroshi's checklist, I want to remember to use a clear headline and properly labeled axes. These details are important because they make charts easier to understand, even for people who were not involved in the analysis.
